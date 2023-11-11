@@ -3,15 +3,10 @@ import './App.css'
 import Homepage from './pages/Homepage';
 
 function App() {
-  const [funds, setFunds] = useState(123)
 
   return (
     <>
-      <Homepage />
-      <Homepage />
-      <Homepage />
-      <Homepage />
-      <Homepage />
+      <Homepage/>
     </>
   )
 }
