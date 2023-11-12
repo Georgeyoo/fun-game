@@ -1,0 +1,11 @@
+{
+    "asset1": {
+        "velocity": 1
+    },
+    "asset2": {
+        "velocity": 2
+    },
+    "asset3": {
+        "velocity": 3
+    }
+}
