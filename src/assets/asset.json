@@ -1,11 +1,14 @@
 {
     "asset1": {
+        "name": "Bank Savings Account",
         "velocity": 1
     },
     "asset2": {
+        "name": "Stock Market",
         "velocity": 2
     },
     "asset3": {
+        "name": "Lemonade Stand",
         "velocity": 3
     }
 }

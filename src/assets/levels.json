@@ -1,0 +1,14 @@
+{
+    "level1": {
+        "name": "Doordash Delivery",
+        "velocity": 1
+    },
+    "level2": {
+        "name": "Fastfood Worker",
+        "velocity": 2
+    },
+    "level3": {
+        "name": "Insurance Salesperson",
+        "velocity": 3
+    }
+}
